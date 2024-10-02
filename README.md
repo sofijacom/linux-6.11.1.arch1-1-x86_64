@@ -1,1 +1,1 @@
-# linux-6.11.1.arch1-1-x86_64
+# Kernel Linux+firmware-(linux-6.11.0-6-MANJARO-x86_64)
