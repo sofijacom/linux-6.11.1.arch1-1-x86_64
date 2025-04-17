@@ -1,4 +1,4 @@
-# Kernel Linux+firmware-(linux-6.11.0-6-MANJARO-x86_64)
+# Kernel Linux+firmware
 
 <p align="center">
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" />
